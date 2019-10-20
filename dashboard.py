@@ -1,7 +1,7 @@
 """
 Nombre: dashboard.py
 Objetivo: Manejar bases de datos desde una interfaz gráfica.
-Autor: Andrés Eduardo Mora Alonso.
+Autor: Andrés Eduardo Mora Alonso / Carlos Andres Rodriguez Argote.
 Fecha: 13/10/19
 """
 import pymysql
